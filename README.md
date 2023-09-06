@@ -1,4 +1,4 @@
-# Trabalho Final SCC0279 - Redes Neurais e Apredizado Profundo
+# Trabalho Final SCC0270 - Redes Neurais e Apredizado Profundo
 
 No trabalho final da disciplina implementamos a arquitetura proposta no artigo  'Character-level Convolutional Networks for Text
 Classification'. 
@@ -9,6 +9,6 @@ Na avaliação do desempenho da arquitetura, usamos o 'Twitter Sentiment Analysi
 ## Para o futuro
 
 Algo importante que não fizemos no trabalho foi a comparação com outros algoritmos. 
-Para o futuro, achamos interessante analisar como o desempenho do 'Bag of Words' e de algum algoritmo baseado em *Transformers*, o atual *state of the art*. 
+Para o futuro, achamos interessante analisar como o desempenho do *'Bag of Words'* e de algum algoritmo baseado em *'Transformers'*, o atual *state-of-the-art*. 
 
 
